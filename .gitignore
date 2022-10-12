@@ -1,0 +1,7 @@
+.DS_Store
+.idea/*
+logs/*
+bin/geckodriver.log
+venv/*
+geckodriver.log
+bin/__pycache__/*
